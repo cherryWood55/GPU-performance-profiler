@@ -211,9 +211,6 @@ void exportJSON(const std::string& filename) {
 3. **Profile representative workloads** not toy examples
 4. **Compare against theoretical peak** to gauge efficiency
 
-## License
-
-Free to use and modify. No warranty provided.
 
 ## Contributing
 
